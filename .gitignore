@@ -1,0 +1,18 @@
+# Licensed input data (OptionMetrics via WRDS) — never commit
+data/*
+!data/README.md
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+~$*

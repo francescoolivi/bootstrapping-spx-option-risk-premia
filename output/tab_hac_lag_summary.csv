@@ -1,0 +1,7 @@
+,maxlags,n_significant_of_25,n_added_vs_lag4,n_removed_vs_lag4,added_series_vs_lag4
+0,0,12,2,0,"d50_91d,d75_365d"
+1,1,12,2,0,"d50_91d,d75_365d"
+2,2,11,1,0,d75_365d
+3,4,10,0,0,
+4,8,12,2,0,"d50_91d,d75_365d"
+5,12,13,3,0,"d50_182d,d50_91d,d75_365d"

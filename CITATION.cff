@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Bootstrapping Conditional Option Risk Premia on S&P 500 Index Options"
+type: software
+authors:
+  - family-names: Olivi
+    given-names: Francesco
+    affiliation: "Università Commerciale Luigi Bocconi"
+date-released: 2026-10-14
+license: MIT
+keywords:
+  - option risk premia
+  - variance risk premium
+  - bootstrap
+  - implied volatility surface
+  - S&P 500 index options
+references:
+  - type: unpublished
+    authors:
+      - family-names: Wu
+        given-names: Liuren
+    title: "Bootstrapping Option Risk Premiums"
+    year: 2025
+    notes: "Working paper, Zicklin School of Business, Baruch College (CUNY)"

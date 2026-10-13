@@ -1,0 +1,15 @@
+diagnostic,value
+min_eigenvalue_min,4.289410764104827e-05
+min_eigenvalue_median,8.538947668208197e-05
+min_eigenvalue_max,0.0004220916792551962
+condition_number_min,8512.755542691475
+condition_number_median,16019.879494612995
+condition_number_max,36009.12582759618
+n_non_psd,0.0
+max_weight_share_mean,0.18246786811217672
+max_weight_share_median,0.1812914619896164
+max_weight_share_max,0.3440683739645981
+mean_variance_IR_unshrunk,2.8884281139138954
+mean_variance_IR_shrink_0.01,2.423255300417904
+mean_variance_IR_shrink_0.05,1.9959497473084404
+mean_variance_IR_shrink_0.1,1.6809894722146146
