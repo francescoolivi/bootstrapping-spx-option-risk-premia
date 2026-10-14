@@ -2,6 +2,7 @@
 
 Code for the Master's thesis *"Bootstrapping Conditional Option Risk Premia on S&P 500
 Index Options"* (Francesco Olivi, Università Commerciale Luigi Bocconi, 2025/26).
+Thesis supervisor: Prof. Claudio Tebaldi.
 
 The project applies the non-parametric bootstrapping framework of
 [Wu (2025), *Bootstrapping Option Risk Premiums*](#references) to exchange-traded
