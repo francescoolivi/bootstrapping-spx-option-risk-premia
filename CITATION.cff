@@ -8,6 +8,8 @@ authors:
     affiliation: "Università Commerciale Luigi Bocconi"
 date-released: 2026-10-14
 license: MIT
+repository-code: "https://github.com/francescoolivi/bootstrapping-spx-option-risk-premia"
+url: "https://github.com/francescoolivi/bootstrapping-spx-option-risk-premia"
 keywords:
   - option risk premia
   - variance risk premium

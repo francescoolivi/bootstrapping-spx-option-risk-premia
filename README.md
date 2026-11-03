@@ -70,7 +70,7 @@ yield curve, index dividends) via WRDS, plus the CBOE VIX series, for 1996-01-04
 Python 3.10 or later.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/francescoolivi/bootstrapping-spx-option-risk-premia.git
 cd bootstrapping-spx-option-risk-premia
 python3 -m venv .venv && source .venv/bin/activate    # optional
 pip install -r requirements.txt
